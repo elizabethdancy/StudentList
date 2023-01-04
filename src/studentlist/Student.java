@@ -3,7 +3,7 @@ package studentlist;
 /**
  * This class models student Objects. Students have a name and a student ID
  *
- * @author Liz Dancy, 2021
+ * @author Liz Dancy, 2023
  */
 public class Student {
 
