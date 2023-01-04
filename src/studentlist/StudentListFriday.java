@@ -14,13 +14,13 @@ public class StudentListFriday
      */
     public static void main(String[] args) 
     {
-       Student[] students = new Student[6];
+       Student[] students = new Student[5];
        students[0] = new Student("Gabe");
        students[1] = new Student("Pranav");
        students[2] = new Student("Muhammad");
        students[3] = new Student("Lucas");
        students[4] = new Student("Chris");
-       Student s1 = new Student("Liz");
+       //Student s1 = new Student("Liz");
        //students[0] = s1;
        for(Student s: students)
        {
